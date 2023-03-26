@@ -1,2 +1,3 @@
-# User-Experience-Issues-of-Selected-Websites---University-Project
-University project showcasing user-experience issues on a sample website, using HTML/CSS, and addressing UX issues on a personal website.
+# User-Experience Issues of Selected Websites - University Project
+
+The "User Experience Issues of Selected Websites - University Project" is a web design project created using HTML and CSS. The website showcases various issues related to information retrieval on a sample website, as well as user-experience problems on a website that I had previously created. This project was developed as part of the Websites User-Experience course, where I had the opportunity to gain practical experience in identifying and addressing issues related to user experience on websites. Overall, this project allowed me to apply the skills and knowledge that I acquired throughout the course and provided valuable insights into the importance of user-centered design in website development.
